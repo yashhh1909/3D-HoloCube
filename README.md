@@ -10,7 +10,8 @@ The 3D cube itself is drawn using OpenGL. Each cube face is semi-transparent (us
 
 In essence, this project is an elegant demonstration of gesture-based 3D interaction. It integrates real-time computer vision with graphics rendering, showing how intuitive gestures can replace traditional input devices like a mouse or keyboard for 3D object manipulation. This can be extended further for AR/VR applications, interactive art, or educational visualization tools.
 
-🚀 Tech Stack
+
+# 🚀 Tech Stack
 
 Python – Core programming language
 
@@ -22,7 +23,7 @@ PyGame – Game loop and window management
 
 PyOpenGL – Rendering and transforming the 3D cube
 
-📖 Project Description
+# 📖 Project Description
 
 This project integrates computer vision and 3D graphics rendering to create a cube that responds intuitively to your hand movements:
 
@@ -34,7 +35,7 @@ Wireframe + Transparent Faces → Combines a clean wireframe outline with semi-t
 
 The cube updates in real time at 60 FPS, creating a smooth and responsive gesture-based interface. By mapping hand landmarks to 3D transformations, this project showcases how simple finger movements can provide precise, touchless control.
 
-🎯 Features
+# 🎯 Features
 
 Real-time gesture recognition using MediaPipe
 
